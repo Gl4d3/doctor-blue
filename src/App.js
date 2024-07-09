@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import './App.css';
 import { ChatBot } from './components/ChatBot';
 import { NearbyFacilities } from './components/NearbyFacilities';
 import { getFirstAidInfo } from './utils/openai';
